@@ -1,2 +1,2 @@
-# Homework-for-Python-to-everybody-
-课程《Python to everybody》的作业
+# Note and Homework-for-Python-to-everybody
+课程《Python to everybody》的课堂笔记以及作业
