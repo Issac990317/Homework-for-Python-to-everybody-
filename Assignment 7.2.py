@@ -8,7 +8,7 @@ for line in fh:
         continue
     count = count + 1
     x = line.find("0")
-    y = line[20:]
+    y = line[x:]
     total = total + float(y)
     avg = total / count
 print("Average spam confidence:", avg)
